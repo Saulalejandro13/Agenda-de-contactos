@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto id="C001">
+        <nombre>Maria Gonzalez</nombre>
+        <telefono>8112345678</telefono>
+        <correo>maria@example.com</correo>
+        <ciudad>Monterrey</ciudad>
+        <tipo>Personal</tipo>
+    </contacto>
+
+    <contacto id="C002">
+        <nombre>Juan Perez</nombre>
+        <telefono>8187654321</telefono>
+        <correo>juan@example.com</correo>
+        <ciudad>Guadalupe</ciudad>
+        <tipo>Trabajo</tipo>
+    </contacto>
+
+    <contacto id="C003">
+        <nombre>Ana Lopez</nombre>
+        <telefono>8198765432</telefono>
+        <correo>ana@example.com</correo>
+        <ciudad>San Nicolas</ciudad>
+        <tipo>Personal</tipo>
+    </contacto>
+</agenda>
